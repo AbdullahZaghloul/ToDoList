@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\item\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\item\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\item\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:todolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|c:\\users\\nanochip\\source\\repos\\todolist\\migrations\\20250418210228_add item table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941762A6-32DF-49F4-9719-13AE2654A97A}|ToDoList.csproj|solutionrelative:migrations\\20250418210228_add item table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Views\\Home\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:30:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Item\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T22:07:41.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "Views\\Item\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T21:45:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Main.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Main.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Main.cshtml",
+              "RelativeToolTip": "Views\\Item\\Main.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T21:19:44.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250418210228_add item table.cs",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Migrations\\20250418210228_add item table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250418210228_add item table.cs",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Migrations\\20250418210228_add item table.cs",
+              "RelativeToolTip": "Migrations\\20250418210228_add item table.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:02:28.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T20:00:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Item\\Index.cshtml",
+              "RelativeToolTip": "Views\\Item\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T19:56:22.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T19:49:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:49:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-18T19:48:42.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:37:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T19:19:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoList.csproj",
+              "DocumentMoniker": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\ToDoList.csproj",
+              "RelativeDocumentMoniker": "ToDoList.csproj",
+              "ToolTip": "C:\\Users\\NanoChip\\source\\repos\\ToDoList\\ToDoList.csproj",
+              "RelativeToolTip": "ToDoList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-18T19:16:55.06Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

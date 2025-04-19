@@ -1,0 +1,2 @@
+C:\Users\NanoChip\source\repos\ToDoList\wwwroot\css\Not Found.css
+C:\Users\NanoChip\source\repos\ToDoList\wwwroot\js\Not Found.js
